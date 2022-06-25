@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/theoffice/static/css/main.e838e587.css",
+    "main.js": "/theoffice/static/js/main.01ea4401.js",
+    "static/media/bg-tab1.png": "/theoffice/static/media/bg-tab1.b617e0f4c75184c8d233.png",
+    "static/media/bg-phone.png": "/theoffice/static/media/bg-phone.16149c531e8299026187.png",
+    "index.html": "/theoffice/index.html",
+    "main.e838e587.css.map": "/theoffice/static/css/main.e838e587.css.map",
+    "main.01ea4401.js.map": "/theoffice/static/js/main.01ea4401.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e838e587.css",
+    "static/js/main.01ea4401.js"
+  ]
+}
