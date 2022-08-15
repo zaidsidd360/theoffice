@@ -8,13 +8,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/zaidsidd360/gitgood.git
+  https://github.com/zaidsidd360/theoffice.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd gitgood
+  cd theoffice
 ```
 
 Install dependencies
